@@ -1,6 +1,6 @@
 using System;
 
-namespace MediatRDemo.Api
+namespace MediatRDemo.Api.Models
 {
     public class WeatherForecast
     {
